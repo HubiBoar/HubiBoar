@@ -37,7 +37,7 @@
 - In 2021 I joined Maandag which is an recruiting firm, as a C# backend engineer with Azure.
 - Even though my experience was mostly in GameDev I quickly became a valuable team member and was assigned as a sole developer to design and create an automated Onboarding/Offboarding system for internal users of the whole company.
 - This forced me to learn how to design, develop and deploy such complicated systems from start to finish. 
-- I have designed an Event Based system using Azure ServiceBus, Azure Functions, Azure Active Directory (now EntraId), OAuth, SendGrid, and other technologies. System was scalable, easy to maintain, and because of using events each process could be retried if failed.
+- I have designed an Event Driven system using Azure ServiceBus, Azure Functions, Azure Active Directory (now EntraId), OAuth, SendGrid, and other technologies. System was scalable, easy to maintain, and because of using events each process could be retried if failed.
 - I introduced best DevOps practicies such as InfrastructureAsCode with Terraform, and ConfigurationAsCode with Azure AppConfiguration and KeyVault, which weren't used in the company before. Everything was automatically deployed using CI/CD pipelines in Azure DevOps.
 - I then used the experience gained during this process to create an automated Terraform deployment system for other services inside company which untill then were setup manually. 
 This resulted in reduction of creation time for new environments from 3 weeks of manual work into 2 hours of an automated pipeline run.
