@@ -18,7 +18,7 @@
 - I am organized and self-sufficient which resulted in beeing assigned into the most demanding tasks.
 
 ## Projects
-- I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved (All of them are Work In Progress for now).
+- I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
 - [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
 - [**CodeOps**](https://github.com/HubiBoar/CodeOps) aims to move as much DevOps work from yamls etc. into C#.
 - [**FeatureSlice**](https://github.com/HubiBoar/FeatureSlice) helps with using Vertical/Feature Slices Architecture.
