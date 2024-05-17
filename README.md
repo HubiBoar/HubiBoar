@@ -71,7 +71,7 @@
 - Game was founded by an publishing company Icebreaker Interactive (which no longer exists).
 
 ### 2. Laparo
-- In 2019 I joined a startup named Laparo developing VR Simulators for Surgeons.
+- In 2019 I joined a startup named Laparo, developing VR Simulators for Surgeons.
 - I was working there as an Unity Game Engine developer with C# but I quickly started to work on many other projects such as QA Process which I desinged and implemented.
 - During that time I came up with an idea and designed a new product for the company which was a Web based App with online courses for Surgeons.
 - I was assigned as a sole developer to this project, which forced me to learn Web Development from start to finish, including Architecture, Cloud design, CI/CD, Testing and Frontend.
