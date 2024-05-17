@@ -16,7 +16,15 @@
 - I became experienced in every aspect of the cloud systems development, including Architecture, DevOps, Frontend and Testing.
 - I constantly try to learn and improve my skills which allowed me to quickly adapt and work on different projects with different technologies.
 - I am organized and self-sufficient which resulted in beeing assigned into the most demanding tasks.
-- I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
+
+## Personal projects
+- I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved (All of them are Work In Progress for now).
+- [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
+- [**CodeOps**](https://github.com/HubiBoar/CodeOps) aims to move as much DevOps work from yamls etc. into C#.
+- [**FeatureSlice**](https://github.com/HubiBoar/FeatureSlice) helps with using Vertical/Feature Slices Architecture.
+- [**FluentServiceBus**](https://github.com/HubiBoar/FluentServiceBus) creates an easy to use API for Azure ServiceBus.
+- [**Momolith**](https://github.com/HubiBoar/Momolith) helps to implement Modular Monolith Architecture.
+- [**Config-Validator**](https://github.com/HubiBoar/config-validator) is a CLI tool to help Validate your configuration using an automated pipeline.
 
 ## Work Experience
 ### 0. Hobby
@@ -44,16 +52,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - I then used experience gained creating Event Based systems to refactor and redesign all of our backend services, which made them more stable and scalable as well as easier to maintain.
 - I designed and implemented a new architecture for our whole system which was based on Modular Monolith architecture which is used now inside company's backend services.
 
-## Personal projects.
-- I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved (All of them are Work In Progress for now).
-- [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
-- [**CodeOps**](https://github.com/HubiBoar/CodeOps) aims to move as much DevOps work from yamls etc. into C#.
-- [**FeatureSlice**](https://github.com/HubiBoar/FeatureSlice) helps with using Vertical/Feature Slices Architecture.
-- [**FluentServiceBus**](https://github.com/HubiBoar/FluentServiceBus) creates an easy to use API for Azure ServiceBus.
-- [**Momolith**](https://github.com/HubiBoar/Momolith) helps to implement Modular Monolith Architecture.
-- [**Config-Validator**](https://github.com/HubiBoar/config-validator) is a CLI tool to help Validate your configuration using an automated pipeline.
-
-## Learning.
+## Learning
 - I'm currently learning Microservices Architecture and Kubernetes.
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
