@@ -14,7 +14,7 @@
 - My career started as C# Game Developer using Unity Game Engine in 2018.
 - I then learned to build Cloud services using C# and Azure.
 - I became experienced in every aspect of the Cloud systems development and deployment, including Architecture, DevOps, Frontend and Testing.
-- I constantly try to learn and improve, which allowed me to quickly adapt and work on different projects with different technologies.
+- I constantly try to learn and improve, which allowed me to quickly adapt and work on many projects with a variety of technologies.
 - I am organized and self-sufficient which resulted in beeing assigned into the most demanding tasks.
 
 ## Projects
