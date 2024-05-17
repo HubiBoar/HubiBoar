@@ -52,11 +52,6 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - I then used experience gained creating Event Based systems to refactor and redesign all of our backend services, which made them more stable and scalable as well as easier to maintain.
 - I designed and implemented a new architecture for our whole system which was based on Modular Monolith architecture which is used now inside company's backend services.
 
-## Learning
-- I'm currently learning Microservices Architecture and Kubernetes.
-- I'm learning other cloud providers such as AWS and GCP.
-- I have been learning frontend technologies for a while, now focusing on HTMX.
-
 ## Skills and Technologies
 - C#
 - Git
@@ -84,6 +79,11 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - Scrum
 - Agile
 - English C1
+
+## Learning
+- I'm currently learning Microservices Architecture and Kubernetes.
+- I'm learning other cloud providers such as AWS and GCP.
+- I have been learning frontend technologies for a while, now focusing on HTMX.
 
 ## Certificates
 - I'm [**Azure**](https://learn.microsoft.com/en-us/users/hubertdziku-4066/credentials/72eed05bad8c4f9c?ref=https%3A%2F%2Fwww.linkedin.com%2F) certiefied, and I'm currently working on more certifications
