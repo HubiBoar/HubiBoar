@@ -73,6 +73,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - NoSql
 - REST API
 - Serverless 
+- TypeScript/JavaScript
 - Vertical Slice Architecture
 - Event Driven Architecture
 - HTMX
