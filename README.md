@@ -53,7 +53,6 @@
 - Serverless 
 - Vertical Slice Architecture
 - Event Driven Architecture
-- HTMX
 - Scrum
 - Agile
 - English C1
