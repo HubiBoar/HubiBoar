@@ -35,8 +35,8 @@
 - Git
 - Terraform
 - Azure
-- GitHub Actions
-- Azure DevOps with Pipelines
+- GitHub and GitHub Actions
+- Azure DevOps and Azure DevOps Pipelines
 - Unit/Integration Tests
 - CI/CD
 - Postman
