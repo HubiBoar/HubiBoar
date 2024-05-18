@@ -13,7 +13,7 @@ I'm an experienced and constantly growing C#, DevOps, Cloud and Game Developer.
 - I then learned to build Cloud services using C# and Azure.
 - I became experienced in every aspect of the Cloud systems Development, including Architecture, DevOps, Frontend and Testing.
 - I constantly try to learn and improve, which allowed me to quickly adapt and work on many projects using a variety of technologies.
-- I am organized and self-sufficient which resulted in beeing assigned into the most demanding tasks.
+- I am organized, eager to learn, open for new challenges and self-sufficient which resulted in beeing assigned into the most demanding tasks.
 
 ## Work Experience
 ### 0. Hobby
@@ -97,3 +97,4 @@ Bachelor's degree, Computer Science
 - I'm currently learning Microservices Architecture and Kubernetes.
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
+- I'm reading Domain Driven Design from Eric Evans book as well Refactoring from Martin Fowler.  
