@@ -20,7 +20,7 @@ I'm an experienced and constantly growing C#, DevOps, Cloud and Game Developer.
 - In 2021 I joined Maandag as a C# Backend Engineer. Maandag is an recruiting firm.
 - I have designed and created an automated Onboarding/Offboarding system for the company, using Event Driven Architecture with AzureServiceBus.
   System was scalable, easy to maintain, and because of using events each process could be retried if failed.
-- On my own initiative I've introduced and refactored our backend services to use best DevOps practicies such as InfraAsCode with Terraform, and ConfigAsCode with Azure AppConfiguration and KeyVault.
+- I've introduced and refactored our backend services to use best DevOps practicies such as InfraAsCode with Terraform, and ConfigAsCode with Azure AppConfiguration and KeyVault.
 - In January 2024 I got promoted to a Senior Engineer role.
 - I've designed and implemented a new architecture based on Modular Monolith Architecture.
 - I've started experimenting with Microservices Architecture, using Kubernetes and Azure ContainerApps to make our apps even more scalable.
