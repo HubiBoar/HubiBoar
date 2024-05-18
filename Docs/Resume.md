@@ -101,7 +101,7 @@ I have finished more than 40 Courses on Udemy.com, Dometrain.com, etc. [List is 
 - I'm currently learning Microservices Architecture and Kubernetes.
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
-- I'm reading *Domain-Driven Design* from Eric Evans as well as *Refactoring* from Martin Fowler.
+- I'm reading *Domain-Driven Design* by Eric Evans as well as *Refactoring* by Martin Fowler.
 
 ## Eductation
 #### Uniwersytet WSB Merito Wrocław
