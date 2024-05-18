@@ -1,9 +1,9 @@
 # Hubert Dzikuć
 ### Wroclaw, Poland
 
-<img src="https://simpleskill.icons.workers.dev/svg?i=linkedin" width="20" height="20"> [https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/)
-<br><img src="https://simpleskill.icons.workers.dev/svg?i=github" width="20" height="20"> [https://github.com/HubiBoar](https://github.com/HubiBoar)
-<br><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="20" height="20"> [hubert.dzikuc@gmail.com](mailto:hubert.dzikuc@gmail.com)
+[https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/)
+<br>[https://github.com/HubiBoar](https://github.com/HubiBoar)
+<br>[hubert.dzikuc@gmail.com](mailto:hubert.dzikuc@gmail.com)
 
 ## Summary  
 #### I'm an experienced and constantly growing C#, DevOps, Cloud and Game Developer.
@@ -93,8 +93,3 @@ Bachelor's degree, Computer Science
 - I'm currently learning Microservices Architecture and Kubernetes.
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
-
-## Links
-[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/)
-[![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hubert.dzikuc@gmail.com)
-[![My Skill](https://simpleskill.icons.workers.dev/svg?i=github)](https://github.com/HubiBoar)
