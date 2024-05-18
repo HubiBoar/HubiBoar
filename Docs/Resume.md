@@ -106,4 +106,4 @@ Bachelor's degree, Computer Science
 
 ----
 
-*This Resume was automatically converted from Markdown into PDF by an GitHub Action that I have created.*
+*This Resume was automatically converted from Markdown into PDF by an [GitHub Action](https://github.com/HubiBoar/HubiBoar/actions/workflows/DocsToPDF.yml) that I have created.*
