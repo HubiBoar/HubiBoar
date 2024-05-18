@@ -1,10 +1,6 @@
 <div align="center">
   
 # Hey! I'm Hubert
-
-</div>
-
-<div align="center">
   
 ### I'm an experienced and constantly growing C# and DevOps engineer.
 
