@@ -49,6 +49,11 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - I designed and implemented a new architecture for our systems which is based on Modular Monolith Architecture and is used since then.
 - I started experimenting with Microservices Architecture, using Kubernetes and Azure Container Apps to make our apps even more scalable.
 
+## Eductation
+#### Uniwersytet WSB Merito Wrocław
+Bachelor's degree, Computer Science
+<br>*Mar 2023 - Feb 2026*
+
 ## Projects
 I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
 - [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
@@ -102,8 +107,3 @@ I have finished more than 40 Courses on Udemy.com, Dometrain.com, etc. [List is 
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
 - I'm reading *Domain-Driven Design* by Eric Evans as well as *Refactoring* by Martin Fowler.
-
-## Eductation
-#### Uniwersytet WSB Merito Wrocław
-Bachelor's degree, Computer Science
-<br>*Mar 2023 - Feb 2026*
