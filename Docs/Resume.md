@@ -47,7 +47,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - I also used the experience gained creating a Event Based systems to refactor and redesign all of our backend services, which made them more stable and scalable as well as easier to maintain.
 - In January 2024 I got promoted to a Senior Engineer role.
 - I designed and implemented a new architecture for our systems which is based on Modular Monolith Architecture and is used since then.
-- I started experimenting Microservices Architecture, using Kubernetes and Azure Container Apps to make our apps even more scalable.
+- I started experimenting with Microservices Architecture, using Kubernetes and Azure Container Apps to make our apps even more scalable.
 
 ## Projects
 I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
