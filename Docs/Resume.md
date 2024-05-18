@@ -1,14 +1,12 @@
-<div align="center">
-  
-# Hey! I'm Hubert
+# Hubert Dzikuć
+### Wroclaw, Poland
 
-</div>
+<img src="https://simpleskill.icons.workers.dev/svg?i=linkedin" width="20" height="20"> [https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/)
+<br><img src="https://simpleskill.icons.workers.dev/svg?i=github" width="20" height="20"> [https://github.com/HubiBoar](https://github.com/HubiBoar)
+<br><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="20" height="20"> [hubert.dzikuc@gmail.com](mailto:hubert.dzikuc@gmail.com)
 
-<div align="center">
-  
-### I'm an experienced and constantly growing C# and DevOps engineer.
-
-</div>
+## Summary  
+#### I'm an experienced and constantly growing C#, DevOps, Cloud and Game Developer.
 
 ## About me
 - My career started as C# Game Developer using Unity Game Engine in 2018.
@@ -43,8 +41,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - I then used experience gained creating Event Based systems to refactor and redesign all of our backend services, which made them more stable and scalable as well as easier to maintain.
 - I designed and implemented a new architecture for our whole system which was based on Modular Monolith architecture which is used now inside company's backend services.
 
-
-## Projects
+## Personal Projects
 - I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
 - [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
 - [**CodeOps**](https://github.com/HubiBoar/CodeOps) aims to move as much DevOps work from yamls etc. into C#.
@@ -53,9 +50,15 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - [**Momolith**](https://github.com/HubiBoar/Momolith) helps to implement Modular Monolith Architecture.
 - [**Config-Validator**](https://github.com/HubiBoar/config-validator) is a CLI tool to help Validate your configuration using an automated pipeline.
 
-## Certificates
-- I'm [**Azure**](https://learn.microsoft.com/en-us/users/hubertdziku-4066/credentials/72eed05bad8c4f9c?ref=https%3A%2F%2Fwww.linkedin.com%2F) certiefied, and I'm currently working on more certifications
-![image](https://github.com/HubiBoar/HubiBoar/assets/150520704/791950c1-0467-4e80-acd5-216c0d542abb)
+## Certifications
+#### [Microsoft Certified: Azure Fundamentals - Microsoft](https://learn.microsoft.com/en-us/users/hubertdziku-4066/credentials/72eed05bad8c4f9c?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+I'm currently working on more certifications.
+
+## Eductation
+
+#### Uniwersytet WSB Merito Wrocław
+Bachelor's degree, Computer Science
+<br>Mar 2023 - Feb 2026
 
 ## Skills and Technologies
 - C#
@@ -77,9 +80,11 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - SQL
 - NoSql
 - REST API
-- Serverless 
+- Serverless
 - Vertical Slice Architecture
 - Event Driven Architecture
+- Modular Monolith Architecture
+- Microservices Architecture
 - Scrum
 - Agile
 - English C1
