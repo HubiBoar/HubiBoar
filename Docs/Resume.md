@@ -30,7 +30,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - In January 2024 I got promoted to a Senior Engineer role.
 - I designed and implemented a new architecture for our systems which is based on Modular Monolith Architecture and is used since then.
 - I started experimenting with Microservices Architecture, using Kubernetes and Azure Container Apps to make our apps even more scalable.
-- 
+
 ### C# .Net Developer
 **[Laparo Medical Simulators](https://www.linkedin.com/company/laparo-simulators/)**
 <br>*Dec 2019 - Dec 2021 (2 years)*
