@@ -1,19 +1,19 @@
 # .github/workflows/convert-to-pdf.yml
 
-name: Resume to PDF
+name: Docs to PDF
 # This workflow is triggered on pushes to the repository.
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
     # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
     paths:
-      - './Resume.md'
+      - 'docs/**.md'
+      - 'docs/images/**'
 
 jobs:
   converttopdf:
-    name: Build Resume PDF
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -21,7 +21,7 @@ jobs:
         with:
           input_dir: docs
           output_dir: pdfs
-          images_dir: ./images
+          images_dir: docs/images
           # for example <img src="./images/file-name.png">
           image_import: ./images
           # Default is true, can set to false to only get PDF files
