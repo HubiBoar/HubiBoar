@@ -15,7 +15,7 @@ I'm an experienced and constantly growing C#, DevOps, Cloud and Game Developer.
 - I constantly try to learn and improve, which allowed me to quickly adapt and work on many projects using a variety of technologies.
 - I am organized, eager to learn, open for new challenges and self-sufficient which resulted in beeing assigned into the most demanding tasks.
 
-## Work Experience
+## Experience
 ### 0. Hobby
 - I started learning programming at an age of 15 with Unity Game Engine and C# as my hobby.
 
@@ -45,7 +45,7 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 - In January 2024 I got promoted to a Senior Engineer role.
 - I designed and implemented a new architecture for our systems which is based on Modular Monolith Architecture and is used since then.
 
-## Personal Projects
+## Projects
 - I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
 - [**Definit**](https://github.com/HubiBoar/Definit) helps with Configuration, Errors, Validation, etc.
 - [**CodeOps**](https://github.com/HubiBoar/CodeOps) aims to move as much DevOps work from yamls etc. into C#.
@@ -57,12 +57,6 @@ This resulted in reduction of creation time for new environments from 3 weeks of
 ## Certifications
 #### [Microsoft Certified: Azure Fundamentals - 72EED05BAD8C4F9C](https://learn.microsoft.com/en-us/users/hubertdziku-4066/credentials/72eed05bad8c4f9c?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 I'm currently working on more certifications.
-
-## Eductation
-
-#### Uniwersytet WSB Merito Wrocław
-Bachelor's degree, Computer Science
-<br>*Mar 2023 - Feb 2026*
 
 ## Skills and Technologies
 - C#
@@ -93,8 +87,23 @@ Bachelor's degree, Computer Science
 - Agile
 - English C1
 
+## Courses
+I have finished more than 40 Courses on Udemy.com, Dometrain.com, etc. [List is on my LinkedIn](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/details/courses/)
+
+## Eductation
+#### Uniwersytet WSB Merito Wrocław
+Bachelor's degree, Computer Science
+<br>*Mar 2023 - Feb 2026*
+
 ## Learning
 - I'm currently learning Microservices Architecture and Kubernetes.
 - I'm learning other cloud providers such as AWS and GCP.
 - I have been learning frontend technologies for a while, now focusing on HTMX.
-- I'm reading Domain Driven Design from Eric Evans book as well Refactoring from Martin Fowler.  
+- I'm reading *Domain-Driven Design* from Eric Evans as well as *Refactoring* from Martin Fowler.
+
+## Books
+[List of career-oriented books I'm reading](https://github.com/HubiBoar/HubiBoar/blob/main/Books.md)
+
+----
+
+*This Resume was automatically converted from Markdown into PDF by an GitHub Action that I have created.*
