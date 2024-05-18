@@ -13,7 +13,7 @@
 ## About me
 - I started making Games as a Hobby at an age of 15.
 - My career started as C# Game Developer using Unity Game Engine in 2018.
-- I then switched my focus into building Cloud services using C# and Azure.
+- I then switched my focus into building Cloud services using C#, Terraform and Azure.
 
 ## Projects
 - I use my experience to create Open-Source projects, tools, libraries and frameworks to help developers quickly deal with problems that I have already solved.
