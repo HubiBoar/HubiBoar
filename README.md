@@ -23,3 +23,7 @@
 ## Links
 [![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](https://linkedin.com/in/hubert-dzikuc) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hubert.dzikuc@gmail.com)
 
+#### [Roadmap](/Roadmap.md)
+#### [Resume](Docs/Resume.md)
+#### [Courses](/Courses.md)
+#### [Books](/Books.md)
