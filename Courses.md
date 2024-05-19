@@ -1,5 +1,7 @@
 # List of Courses I have finished
 
+Total time: **264 hours and 30 minutes**
+
 1. [Six Tools To Improve Your Tech Leadership & Communication](https://www.udemy.com/course/how-to-become-an-outstanding-tech-leader) (6h)
 2. [C# Memory Tricks: Learn How To Master The Garbage Collector](https://www.udemy.com/course/csharp-memory-tricks-learn-how-to-master-the-garbage-collector) (3h 30m)
 3. [Scrum Master Certification 2024 + Agile Scrum Certification](https://www.udemy.com/course/scrum-certification) (3h)
@@ -33,18 +35,18 @@
 31. [Microsoft Azure: From Zero to Hero - The Complete Guide](https://www.udemy.com/course/microsoft-azure-from-zero-to-hero-the-complete-guide) (21h 3m)
 32. [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet) (20h 20m)
 33. [Complete guide to building an app with .Net Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react) (35h 33m)
-35. [Deep Dive: Microservices Architecture](https://dometrain.com/course/deep-dive-microservices-architecture/) (4h 20m)
-36. [From Zero to Hero: Kubernetes for Developers](https://dometrain.com/course/from-zero-to-hero-kubernetes-for-developers/) (5h 45m)
-37. [From Zero to Hero: Entity Framework Core in .NET](https://dometrain.com/course/from-zero-to-hero-entity-framework-core-in-dotnet/) (8h 33m)
-38. [From Zero to Hero: REST APIs in .NET](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/) (4h 41m)
-39. [Getting Started: Microservices Architecture](https://dometrain.com/course/getting-started-microservices-architecture/) (5h 20m)
-40. [From Zero to Hero: Docker for Developers](https://dometrain.com/course/from-zero-to-hero-docker/) (3h 26m)
-41. [From Zero to Hero: Unit testing in C#](https://dometrain.com/course/from-zero-to-hero-unit-testing-in-c/) (3h 38m)
-42. [From Zero to Hero: Integration testing in ASP.NET Core](https://dometrain.com/course/from-zero-to-hero-integration-testing-in-asp-net-core/) (4h 14m)
-43. [From Zero to Hero: Dependency Injection in .NET](https://dometrain.com/course/from-zero-to-hero-dependency-injection-in-net/) (4h 40m)
-44. [From Zero to Hero: Minimal APIs in .NET with C#](https://dometrain.com/course/from-zero-to-hero-minimal-apis-in-net-with-c/) (3h 32m)
-45. [From Zero to Hero: Logging in .NET](https://dometrain.com/course/from-zero-to-hero-logging-in-dotnet/) (2h 56m)
-46. [Cloud Fundamentals: AWS Services for C# Developers](https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/) (4h 13m)
+34. [Deep Dive: Microservices Architecture](https://dometrain.com/course/deep-dive-microservices-architecture/) (4h 20m)
+35. [From Zero to Hero: Kubernetes for Developers](https://dometrain.com/course/from-zero-to-hero-kubernetes-for-developers/) (5h 45m)
+36. [From Zero to Hero: Entity Framework Core in .NET](https://dometrain.com/course/from-zero-to-hero-entity-framework-core-in-dotnet/) (8h 33m)
+37. [From Zero to Hero: REST APIs in .NET](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/) (4h 41m)
+38. [Getting Started: Microservices Architecture](https://dometrain.com/course/getting-started-microservices-architecture/) (5h 20m)
+39. [From Zero to Hero: Docker for Developers](https://dometrain.com/course/from-zero-to-hero-docker/) (3h 26m)
+40. [From Zero to Hero: Unit testing in C#](https://dometrain.com/course/from-zero-to-hero-unit-testing-in-c/) (3h 38m)
+41. [From Zero to Hero: Integration testing in ASP.NET Core](https://dometrain.com/course/from-zero-to-hero-integration-testing-in-asp-net-core/) (4h 14m)
+42. [From Zero to Hero: Dependency Injection in .NET](https://dometrain.com/course/from-zero-to-hero-dependency-injection-in-net/) (4h 40m)
+43. [From Zero to Hero: Minimal APIs in .NET with C#](https://dometrain.com/course/from-zero-to-hero-minimal-apis-in-net-with-c/) (3h 32m)
+44. [From Zero to Hero: Logging in .NET](https://dometrain.com/course/from-zero-to-hero-logging-in-dotnet/) (2h 56m)
+45. [Cloud Fundamentals: AWS Services for C# Developers](https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/) (4h 13m)
 
 
 
