@@ -21,5 +21,5 @@
 - [**Config-Validator**](https://github.com/HubiBoar/config-validator) is a CLI tool to help Validate your configuration using an automated pipeline.
   
 ## Links
-[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hubert.dzikuc@gmail.com)
+[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](www.linkedin.com/in/hubert-dzikuc) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:hubert.dzikuc@gmail.com)
 
