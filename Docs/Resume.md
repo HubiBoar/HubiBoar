@@ -1,7 +1,7 @@
 # Hubert Dzikuć
 ### Wroclaw, Poland
 
-[https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/)
+[https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dzikuc/)
 <br>[https://github.com/HubiBoar](https://github.com/HubiBoar)
 <br>[hubert.dzikuc@gmail.com](mailto:hubert.dzikuc@gmail.com)
 
@@ -89,7 +89,7 @@ I use my experience to create Open-Source projects, tools, libraries and framewo
 - English C1
 
 ## Courses
-I have finished more than 40 Courses on Udemy.com, Dometrain.com, etc. [List is on my LinkedIn](https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b/details/courses/)
+I have finished more than 40 Courses on Udemy.com, Dometrain.com, etc. [List is on my LinkedIn](https://www.linkedin.com/in/hubert-dzikuc/details/courses/)
 
 ## Books
 [List of career-oriented books I'm reading](https://github.com/HubiBoar/HubiBoar/blob/main/Books.md)
