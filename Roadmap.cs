@@ -1,4 +1,0 @@
-# Learning Roadmap
-
-## Software
-- 
