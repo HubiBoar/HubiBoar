@@ -1,7 +1,7 @@
 # Hubert Dzikuć
 ### Wroclaw, Poland
 
-[https://www.linkedin.com/in/hubert-dziku%C4%87-73ab3518b](https://www.linkedin.com/in/hubert-dzikuc/)
+[https://www.linkedin.com/in/hubert-dzikuc/](https://www.linkedin.com/in/hubert-dzikuc/)
 <br>[https://github.com/HubiBoar](https://github.com/HubiBoar)
 <br>[hubert.dzikuc@gmail.com](mailto:hubert.dzikuc@gmail.com)
 
