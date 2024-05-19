@@ -42,8 +42,8 @@ Total count: **45**
 6. [Cloud Design Patterns](https://www.udemy.com/course/cloud-design-patterns) (5h 39m)
 7. [Azure Serverless - Hands on Learning!](https://www.udemy.com/course/azure-serverless-hands-on-learning) (4h 15m)
 8. [Cloud Fundamentals: AWS Services for C# Developers](https://dometrain.com/course/cloud-fundamentals-aws-services-for-c-developers/) (4h 13m)
-9. [Azure Key Vault: The Complete Introduction](https://www.udemy.com/course/azure-key-vault-the-complete-introduction) (2h 44m)
-10. [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners) (3h 24m)
+9. [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners) (3h 24m)
+10. [Azure Key Vault: The Complete Introduction](https://www.udemy.com/course/azure-key-vault-the-complete-introduction) (2h 44m)
 11. [Azure Serverless Functions and Logic Apps](https://www.udemy.com/course/azure-serverless) (2h 10m)
 
 ## DevOps
@@ -60,5 +60,5 @@ Total count: **45**
 ## Soft Skills
 
 1. [Six Tools To Improve Your Tech Leadership & Communication](https://www.udemy.com/course/how-to-become-an-outstanding-tech-leader) (6h)
-2. [Fifteen Great CTO Leadership Hacks](https://www.udemy.com/course/fifteen-great-cto-leadership-hacks) (2h)
-3. [Scrum Master Certification 2024 + Agile Scrum Certification](https://www.udemy.com/course/scrum-certification) (3h)
+2. [Scrum Master Certification 2024 + Agile Scrum Certification](https://www.udemy.com/course/scrum-certification) (3h)
+3. [Fifteen Great CTO Leadership Hacks](https://www.udemy.com/course/fifteen-great-cto-leadership-hacks) (2h)
